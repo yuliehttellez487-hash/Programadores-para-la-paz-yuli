@@ -1,0 +1,3 @@
+CONCEPTOS
+
+REPOSITORIO: ES la carpeta inteligente donde vive tu proyecto,es el lugar donde se guarda todo tu proyecto: archivos,codigo,imagenes, y el historial de cambios.
