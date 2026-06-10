@@ -3,3 +3,10 @@ URL: https://api.github.com/users/yuliehttelliz487-hash
 Método: GET
 Resultado: 200 OK
 Interpretación: El usuario existe y la API respondió correctamente.
+
+Prueba 2:
+URL: http://localhost:3000/incidencia
+Método: POST
+JSON enviado: {"nombre": "Maria", "mensaje": "Hola comunidad"}
+Resultado: 200 OK
+Interpretación: El servidor recibió los datos y respondió con estado "Datos recibidos", nombre "Maria" y mensaje "Hola comunidad"
