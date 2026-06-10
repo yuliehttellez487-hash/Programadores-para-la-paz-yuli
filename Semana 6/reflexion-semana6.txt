@@ -1,0 +1,12 @@
+Reflexión Semana 6:
+
+Es importante que las plataformas reciban reportes de forma estructurada porque:
+1. Facilita que el servidor entienda los datos usando JSON y rutas como POST.
+2. Evita errores al procesar la información, ya que cada campo tiene un nombre claro.
+3. Permite automatizar respuestas y guardar los datos en bases de datos.
+4. Mejora la comunicación entre ciudadanos y sistema, sin confusiones.
+5. Hace más rápido atender incidencias reales como reportes de daños.
+6. Con GitHub guardamos historial de cambios y trabajamos en equipo.
+7. Los códigos HTTP 200 OK confirman que el reporte se recibió bien.
+8. Sin estructura los datos se pierden o el servidor no los lee.
+9. Concluir: Estructurar datos es clave para que las APIs funcionen bien.
