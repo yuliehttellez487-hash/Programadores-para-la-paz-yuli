@@ -1,0 +1,17 @@
+PRUEBAS API TAREAS - Termux
+
+1. POST - Crear tarea:
+curl -X POST http://localhost:3000/tareas -H "Content-Type: application/json" -d "{\"texto\":\"Estudiar para examen\"}"
+Respuesta: {"mensaje":"Tarea creada","tarea":{"id":1781052107333,...}}
+
+2. GET - Listar:
+curl http://localhost:3000/tareas
+Respuesta: [{"id":1781052107333,"texto":"Estudiar para examen","completada":false}]
+
+3. PUT - Completar:
+curl -X PUT http://localhost:3000/tareas/1781052107333
+Respuesta: {"mensaje":"Tarea completada",...}
+
+4. DELETE - Eliminar:
+curl -X DELETE http://localhost:3000/tareas/1781052107333
+Respuesta: {"mensaje":"Tarea eliminada"}
