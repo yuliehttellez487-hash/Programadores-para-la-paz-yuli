@@ -1,0 +1,8 @@
+uname -a muestra la versión del kernel y arquitectura del sistema.
+whoami muestra el nombre del usuario actual en la terminal.
+Esta información es útil para saber con qué permisos estoy trabajando.
+Conocer el sistema ayuda a instalar programas compatibles.
+Saber el usuario es importante por seguridad y permisos.
+Cada comando da datos diferentes pero complementarios.
+Esto me sirve para administrar mejor el equipo.
+Por eso es importante conocer estos comandos básicos.

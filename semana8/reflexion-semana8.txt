@@ -1,0 +1,10 @@
+La seguridad digital es clave para proteger plataformas comunitarias porque allí se maneja información de muchas personas.
+Si una plataforma es hackeada, los datos personales de toda la comunidad quedan expuestos.
+La seguridad genera confianza para que la gente participe sin miedo a fraudes o robos.
+Las plataformas participativas dependen de que todos se sientan seguros al compartir opiniones y datos.
+Un ataque puede dañar la reputación de la comunidad y hacer que la gente deje de usar la plataforma.
+Proteger credenciales y conexiones evita que personas ajenas manipulen los procesos de votación o decisión.
+Hacer respaldos asegura que la información de la comunidad no se pierda si hay fallas técnicas.
+La seguridad también protege contra noticias falsas y manipulación de contenidos.
+Sin seguridad digital, los procesos participativos no pueden ser transparentes ni democráticos.
+Por eso cuidar la plataforma es cuidar a la comunidad que la usa.
