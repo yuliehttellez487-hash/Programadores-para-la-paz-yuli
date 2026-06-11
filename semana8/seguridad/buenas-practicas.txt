@@ -1,0 +1,3 @@
+- Activar verificación en dos pasos en tus cuentas.
+- No conectarse a redes WiFi públicas sin VPN.
+- Hacer copias de seguridad de tus archivos importantes.

@@ -1,0 +1,5 @@
+1. Usar autenticación de dos factores para todos los usuarios.
+2. Cifrar la base de datos donde se guardan los datos.
+3. Revisar permisos de usuario para que solo vean lo necesario.
+4. Hacer copias de respaldo periódicas de toda la plataforma.
+5. Mantener el software del servidor actualizado con parches de seguridad.
