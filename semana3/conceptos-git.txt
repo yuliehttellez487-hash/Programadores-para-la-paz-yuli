@@ -1,0 +1,10 @@
+CONCEPTOS
+
+REPOSITORIO: ES la carpeta inteligente donde vive tu proyecto,es el lugar donde se guarda todo tu proyecto: archivos,codigo,imagenes, y el historial de cambios.
+
+COMMIT: un commit es una "fotografia" de tu proyecto en
+un momento especifico, con un mensaje que explica que cambio.
+
+PUSH: git push toma los commits que hiciste localmente y los
+envia al repositorio remoto en GitHub/GitLab
+
