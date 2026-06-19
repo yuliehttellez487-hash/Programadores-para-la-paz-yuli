@@ -1,0 +1,20 @@
+Pregunta 7: Registro de ejecución del servidor
+
+1. Qué ocurre cuando ejecutas node server.js:
+Se inicia el servidor Express y queda escuchando peticiones en el puerto 3000.
+
+2. Qué mensaje aparece en la terminal:
+Servidor ejecutándose en puerto 3000
+
+3. Qué sucede cuando visitas la ruta /estado:
+El navegador muestra un JSON con el estado del servidor:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+
+4. Ejemplo de respuesta esperada de /estado:
+{
+  "estado": "Servidor funcionando", 
+  "servicio": "API comunitaria"
+}
