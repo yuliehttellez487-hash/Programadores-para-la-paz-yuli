@@ -1,0 +1,7 @@
+Una plataforma tecnológica que promueve la participación ciudadana debe tener base de datos para guardar de forma organizada toda la información de las causas y los apoyos de los usuarios.
+
+También necesita autenticación de usuarios para saber quién participa, evitar fraudes y darle seguridad a cada persona que ingresa a la plataforma.
+
+Además, la protección de información es fundamental para cuidar los datos personales, las contraseñas y la información sensible de la comunidad.
+
+Sin estos tres elementos la plataforma no sería confiable, ni segura, ni útil para que los ciudadanos puedan participar de manera transparente.
