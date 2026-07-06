@@ -1,0 +1,14 @@
+1. PRIORIDAD ALTA
+Como ciudadano quiero registrar una denuncia ciudadana con foto y ubicación para que la veeduría tenga evidencia del problema.
+
+2. PRIORIDAD ALTA  
+Como coordinador de veeduría quiero recibir una notificación por Telegram cuando se registre una nueva denuncia para poder atenderla rápido.
+
+3. PRIORIDAD MEDIA
+Como miembro de la veeduría quiero consultar y filtrar los reportes por barrio y fecha para hacer seguimiento a los casos abiertos.
+
+4. PRIORIDAD MEDIA
+Como ciudadano quiero ver el estado de mi denuncia registrada para saber si ya fue revisada o solucionada.
+
+5. PRIORIDAD BAJA
+Como administrador quiero generar un reporte mensual de las denuncias atendidas para presentar resultados a la comunidad.
