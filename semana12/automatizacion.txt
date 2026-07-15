@@ -1,0 +1,10 @@
+
+
+Evento que activa la automatización:
+Cuando una causa alcanza el número mínimo de apoyos requeridos.
+
+Mensaje que se envía:
+"¡Meta alcanzada! La causa '[titulo de la causa]' ya tiene los apoyos necesarios. El PDF de la petición está listo para ser presentado."
+
+Información que no debe enviarse por seguridad:
+Nombres completos de las personas que apoyaron, cédulas, correos, teléfonos, direcciones, o cualquier dato personal de los ciudadanos.

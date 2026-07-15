@@ -1,0 +1,22 @@
+
+
+1. ¿Qué evento activa el flujo?
+El evento que activa el flujo es cuando un ciudadano registra una nueva denuncia ciudadana en el sistema web de veeduría.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+Se enviaría un mensaje al grupo de Telegram de la veeduría con este texto:
+"⚠️ Nueva denuncia registrada
+ID: #1234
+Barrio: Centro
+Fecha: 05/04/2026 11:20 AM
+Descripción: Alumbrado público dañado
+Ver detalles en el sistema."
+
+3. ¿Qué información no debería enviarse por seguridad?
+Por seguridad y protección de datos no se debe enviar por Telegram:
+- Nombres completos del ciudadano que denuncia
+- Número de documento de identidad
+- Dirección exacta o teléfono
+- Fotos que muestren rostros o placas
+- Tokens de acceso, claves de API o contraseñas del sistema
+Solo se debe enviar información general como ID del caso, barrio y descripción corta.

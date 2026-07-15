@@ -1,0 +1,7 @@
+
+
+1. Un ciudadano ingresa a la plataforma y crea una nueva causa explicando el problema o solicitud.
+2. El sistema guarda la causa en la base de datos y le asigna un enlace para compartir.
+3. Otros ciudadanos entran al enlace y apoyan la causa con 1 clic, dejando solo datos mínimos.
+4. El sistema cuenta automáticamente los apoyos y verifica si se alcanzó el mínimo requerido.
+5. El sistema genera un documento PDF con la petición y la lista de apoyos para poder presentarlo ante las entidades.

@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Vías",
+  "descripcion": "Hueco grande en la calle que daña los carros"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Servicios públicos",
+  "descripcion": "Tubo de agua roto y se está desperdiciando agua"
+}

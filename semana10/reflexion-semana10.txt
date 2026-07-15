@@ -1,0 +1,9 @@
+En esta semana entendí que las metodologías ágiles, la automatización y Telegram pueden ayudar mucho a organizar a una comunidad.
+
+Con las metodologías ágiles aprendí a dividir un proyecto en tareas pequeñas y a darle prioridad a lo más importante primero. Así no me enredo y avanzo paso a paso.
+
+La automatización con n8n me pareció súper útil porque evita hacer lo mismo varias veces. Por ejemplo, que se envíe solo un aviso cuando llega una denuncia.
+
+Telegram me parece perfecto para una veeduría porque es rápido y todos pueden estar informados al mismo tiempo.
+
+Creo que al unir estas tres cosas, la participación ciudadana mejora. Se vuelve más transparente, más ordenada y la gente puede confiar más en que sus reportes sí se van a atender.

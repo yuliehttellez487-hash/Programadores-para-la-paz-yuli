@@ -1,0 +1,10 @@
+Prueba 1 - GET /usuarios:
+Método: GET
+URL: http://localhost:3000/usuarios
+Resultado esperado: Lista de usuarios en formato JSON
+
+Prueba 2 - POST /reporte:
+Método: POST
+URL: http://localhost:3000/reporte
+Body: { "mensaje": "Falla de alumbrado en la calle 5" }
+Resultado esperado: { "estado": "Reporte recibido", "mensaje": "Falla de alumbrado en la calle 5" }

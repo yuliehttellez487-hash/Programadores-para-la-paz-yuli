@@ -1,0 +1,21 @@
+
+
+1. Sistema operativo
+Es el software base que administra el hardware. En Termux es Android/Linux. 
+Controla recursos como memoria, CPU y red. Sin él no corre nada más.
+
+2. Node.js
+Es el entorno que ejecuta JavaScript fuera del navegador. 
+Interpreta tu código server.js y permite crear servidores y APIs.
+
+3. Aplicación server.js
+Es tu código con Express. Define las rutas como / y /estado.
+Responde a las peticiones que llegan al servidor.
+
+4. Puerto
+Es la "puerta" de comunicación. Usamos el 3000.
+Permite que el navegador se conecte a tu servidor: localhost:3000
+
+5. Logs
+Son los mensajes que muestra la terminal. Ej: "Servidor ejecutándose en puerto 3000"
+Sirven para saber si el servidor está bien o si hay errores.

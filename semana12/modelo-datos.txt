@@ -1,0 +1,18 @@
+
+
+Entidad: Causa
+Campos:
+- id: Identificador único de la causa
+- titulo: Nombre de la petición o problema
+- descripcion: Detalle de lo que se está solicitando
+- fecha: Fecha en que se creó la causa
+
+Entidad: Apoyo
+Campos:
+- id: Identificador único del apoyo
+- causa_id: Identificador de la causa a la que se le da apoyo
+- nombre: Nombre de la persona que apoya
+- fecha: Fecha en que se registró el apoyo
+
+Causa: Guarda la información de cada petición que se crea en la plataforma.
+Apoyo: Registra a las personas que respaldan una causa. Cada apoyo está vinculado a una causa.

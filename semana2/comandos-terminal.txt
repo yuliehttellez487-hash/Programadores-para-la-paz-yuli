@@ -1,0 +1,18 @@
+COMANDOS
+
+pwd
+ls
+mkdir semna2
+cd semna2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexiln-semana2.txt
+nano preguntas-semana2.txt
+nano comandos-terminal.txt
+nano reflexion-semana2.txt
+git branch
+git tatus
+git add .
+git commit-m "Actividad semana2"
+git push
+git status

@@ -1,0 +1,14 @@
+cat > ejemplos-reportes.txt << 'EOF'
+Ejemplo 1:
+{
+  "tipo": "Vías",
+  "descripcion": "Hueco peligroso en la vía principal salida a El Carmen"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Servicios públicos",
+  "descripcion": "Falta de agua potable en el barrio La Esperanza hace 3 días"
+}
+EOFEjemplo 1: {tipo: "Robo", descripcion: "Robaron celular en parque"}
+Ejemplo 2: {tipo: "Infraestructura", descripcion: "Alumbrado dañado"}
